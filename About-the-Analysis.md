@@ -46,7 +46,9 @@ There are 11 variables that provide information about employees'  records. The m
 | company_size      | The average number of people that worked for the company during the year: S: less than 50 employees (small) M: 50 to 250 employees (medium) L: More than 250 employees (large) |
 
 No missing values are present. Additionally, I identified duplicated rows. In addressing this, I chose to eliminate them. Although data could have come from various sources, I conducted this step to ensure accuracy and enhance the reliability of my analysis. This action demonstrates my skill in data cleansing methods and my dedication to providing precise analysis results. As a result, 864 rows were removed, leaving 2162 observations for analysis.
+
 I also chose to conduct a Univariate Analysis, which involves examining the most crucial variables individually. This analysis revealed that the sample seems suitable for further examination, considering its substantial size and the relatively consistent central tendency measures.
+
 The variable "salary" displays a positive (or right-skewed) histogram. This observation indicates that only a small number of employees earn notably higher salaries. Additionally, the relatively close proximity of the mean, median, and mode implies that the data might not be significantly impacted by extreme outliers. More details about the univariate analysis can be found in my Excel analysis file.
 
 ## Key Findings
